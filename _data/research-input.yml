@@ -49,13 +49,7 @@
 # the citation.
 
 - id: doi:10.1038/s41477-020-0681-8
-  thumbnail: https://user-images.githubusercontent.com/54328862/99920694-f2534180-2cd9-11eb-8227-60dfcb28f8cf.png
-  tags:
-    - DHH1/DDX6-like RNA helicases
-    - stress-response mRNAs
-
-- id: doi:10.1038/s41477-020-0681-8
-  thumbnail: https://user-images.githubusercontent.com/54328862/99920694-f2534180-2cd9-11eb-8227-60dfcb28f8cf.png
+  thumbnail: https://user-images.githubusercontent.com/54328862/99920852-4579c400-2cdb-11eb-8dab-73068bcadf87.jpg
   tags:
     - DHH1/DDX6-like RNA helicases
     - stress-response mRNAs
