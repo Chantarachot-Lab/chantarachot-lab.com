@@ -1,26 +1,3 @@
-- title: DHH1/DDX6-like RNA helicases maintain ephemeral half-lives of stress-response
-    mRNAs
-  authors:
-  - Thanin Chantarachot
-  - Reed S. Sorenson
-  - Maureen Hummel
-  - Haiyan Ke
-  - Alek T. Kettenburg
-  - Daniel Chen
-  - Karen Aiyetiwa
-  - Katayoon Dehesh
-  - Thomas Eulgem
-  - Leslie E. Sieburth
-  - Julia Bailey-Serres
-  publisher: Nature Plants
-  date: '2020-06-01'
-  link: https://doi.org/ghk2zf
-  id: doi:10.1038/s41477-020-0681-8
-  image: https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fs41477-020-0681-8/MediaObjects/41477_2020_681_Fig1_HTML.png?as=webp
-  tags:
-  - DHH1/DDX6-like RNA helicases
-  - stress-response mRNAs
-
 - title: 'Polysomes, Stress Granules, and Processing Bodies: A Dynamic Triumvirate
     Controlling Cytoplasmic mRNA Fate and Function'
   authors:
