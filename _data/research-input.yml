@@ -48,14 +48,6 @@
 # Url to link to. If not specified, defaults to the url that Manubot returns for
 # the citation.
 
-
-
-- id: doi:10.1038/s41477-020-0681-8
-  image: https://github.com/NatPombubpa/chantarachot-lab.com/blob/main/images/dhh1.jpg
-  tags:
-    - DHH1/DDX6-like RNA helicases
-    - stress-response mRNAs
-
 - id: doi:10.1104/pp.17.01468
   image: https://user-images.githubusercontent.com/54328862/99920749-70174d00-2cda-11eb-8cd5-51a6741a538a.jpg
   tags:
