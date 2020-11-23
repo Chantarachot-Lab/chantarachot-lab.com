@@ -48,8 +48,10 @@
 # Url to link to. If not specified, defaults to the url that Manubot returns for
 # the citation.
 
+
+
 - id: doi:10.1038/s41477-020-0681-8
-  thumbnail: https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fs41477-020-0681-8/MediaObjects/41477_2020_681_Fig1_HTML.png?as=webp
+  image: https://github.com/NatPombubpa/chantarachot-lab.com/blob/main/images/dhh1.jpg
   tags:
     - DHH1/DDX6-like RNA helicases
     - stress-response mRNAs
